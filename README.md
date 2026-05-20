@@ -46,7 +46,8 @@ Analyze company performance using financial statements and key ratios.
 
 ### Screenshot
 
-![Financial Analysis](images/financial-analysis.pn)
+![Financial Analysis](images/Historical_Financial_Stats.png)
+![Financial Analysis](images/Ratio_Analysis.png)
 
 ---
 
