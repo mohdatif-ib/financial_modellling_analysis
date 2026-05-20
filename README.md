@@ -28,7 +28,7 @@ Estimate the intrinsic value of a company using the Discounted Cash Flow (DCF) m
 
 ### Screenshot
 
-![DCF Model](images/dcf-model.png)
+![DCF Model](images/Wacc.png)
 
 ---
 
